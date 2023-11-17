@@ -29,4 +29,4 @@
 	- Check for all the products, whether the price is between the selected range or not
 	
 
-Check the [Test result](https://subha647.github.io/snapdeal-automation.git)
+Check the [Test result](https://raw.githack.com/subha647/snapdeal-automation/master/report1.html)

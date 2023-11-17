@@ -29,4 +29,20 @@
 	- Check for all the products, whether the price is between the selected range or not
 	
 
-Check the [Test result](https://raw.githack.com/subha647/snapdeal-automation/master/report1.html)
+## How to run ?
+
+- Open [testRunner.java](src/test/java/testrunner/testRunner.java) from src/test/java, testrunner package, testRunner class
+- Run the file JUnit test
+
+## How it's work ?
+- I have build using Java BDD framework.
+- It contains 
+	- elementRepository : here I have stored all web elements
+	- steps : This is step definition of feature file
+	- testrunner : It will execute the test cases
+	- Features : It contains feature files with gherkin scenarios.
+
+## How can I get the execution report ?
+- Once we execute the testrunner, it will generate the report as [report1.html](report1.html)
+
+Check the [Test report](https://raw.githack.com/subha647/snapdeal-automation/master/report1.html)
